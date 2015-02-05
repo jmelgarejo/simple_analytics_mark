@@ -4,7 +4,7 @@ add analytics code and attach a click event to simplify 'trackEvent' and 'trackP
 #example
 track event
 <pre>
-<button class="analytics" data-trackevent="category/action/opt_label">Press</button>
+&lt;button class="analytics" data-trackevent="category/action/opt_label"&gt;Press&lt;/button&gt;
 
-<a href="#fake_page" class="analytics" data-trackpage="/fake/url.html">fakeTab</a>
+&lt; href="#fake_page" class="analytics" data-trackpage="/fake/url.html"&gt;fakeTab&lt;/a&gt;
 </pre>
