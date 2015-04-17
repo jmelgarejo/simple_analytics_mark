@@ -1,3 +1,12 @@
+/**
+ * functions_mark.js
+ * Easily and Simple track Events & Pageviews.
+ *
+ * https://github.com/jjmelgarejo/simple_analytics_mark
+ * @2014 Juan Andres Melgarejo
+ * License: MIT
+**/
+
 $(function(){
 	$(".analytics").on("click",function(e){
 		var data = $(this).data();
